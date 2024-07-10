@@ -235,6 +235,10 @@
         .skill-per.WORDPRESS{
             width: 50%;
         }
+        .skill-per.ILLUSTRATOR{
+            width: 70%;
+        }
+        
         @keyframes progress {
             0% {
                 width: 0;
