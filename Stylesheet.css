@@ -65,11 +65,11 @@
     height: 80px;
     width: 100%;
     align-items: center;
-    margin-left: 800px;
+    margin-left: 700px;
 }
 .header ul li{
     list-style-type: none;
-    padding: 5%;
+    padding: 4%;
     
 }
 
